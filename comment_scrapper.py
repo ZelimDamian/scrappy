@@ -18,7 +18,7 @@ settings = Settings()
 
 output_filepath = './results.json'
 username = 'groznytv'
-number = 3
+number = 50
 full_posts = True
 debug = True
 
